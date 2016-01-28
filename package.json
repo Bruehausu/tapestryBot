@@ -1,0 +1,14 @@
+{
+  "name": "tapestry_bot",
+  "version": "1.0.0",
+  "description": "image matching twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy de Bree",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.1.1"
+  }
+}
